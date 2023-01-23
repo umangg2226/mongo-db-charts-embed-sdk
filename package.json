@@ -58,7 +58,7 @@
     "@babel/runtime": "^7.12.13",
     "@looker/chatty": "^2.2.0",
     "@types/bson": "^4.0.1",
-    "bson": "^4.0.2",
+    "bson-m-react18": "4.0.2",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.19"
   },
